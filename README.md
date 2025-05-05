@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Welcome%20to%20Gege's%20Universe%20of%20Code!&fontSize=35&fontAlign=50&fontAlignY=40&desc=Informatics%20Explorer%20%E2%9C%A8%20|%20Imaginer%20%&descAlign=50&descAlignY=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Welcome%20to%20Gege's%20Universe%20of%20Code!&fontSize=35&fontAlign=50&fontAlignY=40&desc=%20Explorer%20%E2%9C%A8%20|%20Imaginer%20%&descAlign=50&descAlignY=70&animation=fadeIn" />
 </p>
 
 

@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00C2CB&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Gege+%F0%9F%91%8B;Informatics+Explorer+%E2%9C%A8;Building+with+Heart+and+Code+%F0%9F%A7%AA" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2cb,100:0e7490&height=150&section=header&text=Welcome%20to%20Gege's%20World%20of%20Code!&fontSize=35&fontAlignY=35&desc=Student%20%7C%20Nature%20Lover%20%7C%20Always%20Curious&descAlignY=60&animation=twinkling" />
+</p>
+
 
 <!--
 **grecoel/grecoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

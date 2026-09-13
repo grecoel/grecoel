@@ -2,31 +2,42 @@
 
 **Software Engineer · AI Researcher · Computer Science Undergraduate**
 
-Computer Science undergraduate at Universitas Diponegoro with interests in software engineering, web development, artificial intelligence, and systems.
+I'm a Computer Science undergraduate at Universitas Diponegoro, with most of my work centered around software engineering, web development, and artificial intelligence.
 
-I enjoy building practical software, understanding how systems work, and exploring problems across application development, machine learning, and low-level computing.
+I enjoy working on software beyond just making it run. I'm interested in how requirements are translated into systems, how applications are structured, how data moves between components, and how engineering decisions affect maintainability once a project grows. Most of my development work revolves around full-stack applications, backend services, REST APIs, and relational databases.
 
-## Tech
+On the software engineering side, I primarily work with **Java and Spring Boot** for backend development and **React, Next.js, TypeScript, and Tailwind CSS** on the frontend. I work with **PostgreSQL and MySQL** for relational data, alongside Git, Docker, Linux, and the usual development tooling around them.
 
-**Languages**
-Java · Python · TypeScript · JavaScript · C++
+I'm also involved in **AI and machine learning research**, particularly computer vision and medical image analysis. That work has made me increasingly interested in the engineering around machine learning as well—not only training models, but also experimentation, evaluation, reproducibility, and eventually turning research output into usable software.
 
-**Web**
-Spring Boot · React · Next.js · Tailwind CSS · REST API
+Outside my primary stack, I like understanding systems closer to the underlying machine. I've been exploring Linux environments, reverse engineering, cybersecurity tooling, and lower-level software with tools such as **Kali Linux, Ghidra, WSL, and C++**. I don't treat these as separate from software engineering; for me, they are another way of understanding what actually happens underneath the abstractions I normally build with.
 
-**Data**
-PostgreSQL · MySQL
+Most of all, I like learning by building, breaking things, figuring out why they broke, and rebuilding them with a better understanding of the system than I had before.
 
-**Tools & Environment**
-Git · Docker · Linux · WSL · Arduino IDE · Figma · Draw.io · Kali Linux · Ghidra
+## Technologies
+
+|                   |                                                     |
+| ----------------- | --------------------------------------------------- |
+| **Languages**     | Java · Python · TypeScript · JavaScript · C++       |
+| **Backend**       | Spring Boot · REST APIs                             |
+| **Frontend**      | React · Next.js · Tailwind CSS                      |
+| **Data**          | PostgreSQL · MySQL                                  |
+| **Development**   | Git · Docker · Linux · WSL                          |
+| **Research & ML** | Python · TensorFlow · Computer Vision               |
+| **Tools**         | Figma · Draw.io · Arduino IDE · Kali Linux · Ghidra |
 
 ## GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=grecoel&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=00000000" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grecoel&layout=compact&hide_border=true&bg_color=00000000" height="150" alt="Top Languages" />
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub Stats" />
 </p>
 
-## Connect
+<p>
+  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Languages by Repository" />
+</p>
 
-[LinkedIn](https://linkedin.com/in/gegecputra) · [Portfolio](https://gegecputraa.pages.dev/) · [Email](mailto:gegecentianaputra@students.undip.ac.id)
+## Elsewhere
+
+[Portfolio](https://gegecputraa.pages.dev/) ·
+[LinkedIn](https://linkedin.com/in/gegecputra) ·
+[Email](mailto:gegecentianaputra@students.undip.ac.id)

@@ -26,18 +26,8 @@ Most of all, I like learning by building, breaking things, figuring out why they
 | **Research & ML** | Python · TensorFlow · Computer Vision               |
 | **Tools**         | Figma · Draw.io · Arduino IDE · Kali Linux · Ghidra |
 
-## GitHub
-
-<p>
-  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Languages by Repository" />
-</p>
 
 ## Elsewhere
 
-[Portfolio](https://gegecputraa.pages.dev/) ·
 [LinkedIn](https://linkedin.com/in/gegecputra) ·
 [Email](mailto:gegecentianaputra@students.undip.ac.id)

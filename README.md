@@ -10,8 +10,6 @@ On the software engineering side, I primarily work with **Java and Spring Boot**
 
 I'm also involved in **AI and machine learning research**, particularly computer vision and medical image analysis. That work has made me increasingly interested in the engineering around machine learning as well—not only training models, but also experimentation, evaluation, reproducibility, and eventually turning research output into usable software.
 
-Outside my primary stack, I like understanding systems closer to the underlying machine. I've been exploring Linux environments, reverse engineering, cybersecurity tooling, and lower-level software with tools such as **Kali Linux, Ghidra, WSL, and C++**. I don't treat these as separate from software engineering; for me, they are another way of understanding what actually happens underneath the abstractions I normally build with.
-
 Most of all, I like learning by building, breaking things, figuring out why they broke, and rebuilding them with a better understanding of the system than I had before.
 
 ## Technologies

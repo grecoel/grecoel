@@ -22,7 +22,7 @@ Most of all, I like learning by building, breaking things, figuring out why they
 | **Data**          | PostgreSQL · MySQL                                  |
 | **Development**   | Git · Docker · Linux · WSL                          |
 | **Research & ML** | Python · TensorFlow · Computer Vision               |
-| **Tools**         | Figma · Draw.io · Arduino IDE · Kali Linux · Ghidra |
+| **Tools**         | Figma · Draw.io · Enterprise Architect · Affinity |
 
 
 ## Elsewhere
